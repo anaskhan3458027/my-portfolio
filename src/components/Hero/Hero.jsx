@@ -7,12 +7,13 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Ada</h1>
+        <h1 className={styles.title}>Hi, I'm Mohd Anas Khan</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+        recently graduate in Computer Science and Engineering from Dr. APJ Abdul Kalam Technical University,
+        with a CGPA of 7.5 with expertise in web development, currently focused on Java full-stack development. 
+        I have hands-on experience in building projects like e-commerce platforms, weather apps, and virtual mouse applications.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="anaskhan3458027@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
