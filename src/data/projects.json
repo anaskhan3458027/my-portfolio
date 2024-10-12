@@ -1,19 +1,19 @@
 [
   {
-    "title": "Project A",
+    "title": "Wheather APP",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made to learn the latest languages by building an website where we make a website to fetch temperature and humidity and wind speed of any location using api .",
+    "skills": ["React", "HTML", "CSS", "Javascript"],
+    "demo": "https://effortless-tiramisu-ee2262.netlify.app/",
+    "source": "https://www.github.com/anaskhan3458027"
   },
   {
-    "title": "Project B",
+    "title": "Wikification tool",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made to fetch wikipedia links after filter made for learning purpose of api working process and frontend etc .",
+    "skills": ["CSS", "HTML" , "Javascript"],
+    "demo": "https://heartfelt-buttercream-bfcb7a.netlify.app/",
+    "source": "https://www.github.com/anaskhan3458027"
   },
   {
     "title": "Project C",
@@ -21,6 +21,15 @@
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+
+  {
+    "title": "Quiz Page",
+    "imageSrc": "projects/project.png",
+    "description": ".",
+    "skills": ["React", "CSS", "Javascript"],
+    "demo": "https://stellar-entremet-cd38f4.netlify.app",
     "source": "https://www.github.com"
   }
 ]

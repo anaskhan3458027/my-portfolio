@@ -16,7 +16,7 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
+    "title": "SQL",
     "imageSrc": "skills/graphql.png"
   },
   {
@@ -26,5 +26,14 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "C/C++",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Core Java",
+    "imageSrc": "skills/figma.png"
   }
+
 ]
