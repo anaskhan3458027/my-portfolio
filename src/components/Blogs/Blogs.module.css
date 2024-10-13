@@ -1,0 +1,22 @@
+/* src/components/Blogs/Blogs.module.css */
+.blogContainer {
+    padding: 20px;
+  }
+  
+  .featuredPost {
+    background: #f8f8f8;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .readLink {
+    display: inline-block;
+    margin-top: 10px;
+    color: blue;
+    text-decoration: underline;
+  }
+  
+  .blogPostContainer {
+    padding: 20px;
+  }
+  
