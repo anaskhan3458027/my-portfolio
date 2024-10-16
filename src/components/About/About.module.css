@@ -16,7 +16,8 @@
   font-size: 35px;
   font-weight: 100;
   letter-spacing: 1.75px;
-  text-transform: uppercase;
+  
+  
 }
 
 .content {
@@ -26,7 +27,7 @@
 }
 
 .aboutImage {
-  width: 35%;
+  width: 15%;
 }
 
 .aboutItems {
@@ -63,7 +64,7 @@
 }
 
 .aboutItem p {
-  font-size: 25px;
+  font-size: 10px;
 }
 
 @media screen and (max-width: 830px) {
