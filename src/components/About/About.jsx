@@ -27,8 +27,15 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Full Stack Developer</h3><img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                As a Full Stack Developer, I possess a diverse skill set that spans both front-end and back-end technologies.
+                 I am proficient in creating dynamic and responsive user interfaces using HTML, CSS, and JavaScript frameworks
+                  like React, while also managing server-side logic and database interactions with languages such as Node.js and Python. 
+                  My experience includes deploying applications on cloud platforms, implementing RESTful APIs, and utilizing version control
+                   systems like Git. I am passionate about building seamless, user-centric applications and tackling complex problems with
+                    innovative solutions. In my portfolio, you will find projects that showcase my ability to integrate various technologies
+                     into cohesive, efficient applications.
+
+
               </p>
             </div>
           </li>

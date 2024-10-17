@@ -5,7 +5,7 @@
     "startDate": "august, 2023",
     "endDate": "september, 2023",
     "experiences": ["Worked on frontend", "make calculator, to do list etc"],
-    "imageSrc": "history/google.png"
+    "imageSrc": "history/googlet.png"
   },
   {
     "role": "SDE I",
@@ -13,7 +13,7 @@
     "startDate": "Aug, 2024",
     "endDate": "Present",
     "experiences": ["Worked on controller", "Designed the controller of Registration page, and also work on mongodb and sql"],
-    "imageSrc": "history/microsoft.png"
+    "imageSrc": "history/microsoftt.png"
   }
 
 ]
