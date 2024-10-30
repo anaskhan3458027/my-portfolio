@@ -7,6 +7,7 @@ import { Hero } from "./components/Hero/Hero";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Projects } from "./components/Projects/Projects"; 
 import  Blogs  from "./components/Blogs/Blogs";
+import BlogPage from "./components/Blogs/BlogPage";
 import ScrollToTop from "./components/ScrollToTop";  // Import ScrollToTop
 
 function App() {
@@ -28,7 +29,8 @@ function App() {
               </>
             }
           />
-          <Route path="/blogs" element={<Blogs />} />  {/* Blogs route */}
+          <Route path="/blogs" element={<Blogs />} />
+          <Route path="/blogs/:blogId" element={<BlogPage />} /> {/* Dynamic route for blog pages */}
         </Routes>
       </div>
     </Router>

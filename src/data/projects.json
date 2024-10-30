@@ -17,6 +17,15 @@
   },
 
   {
+    "title": "Virtual Mouse Using Hand Gesture",
+    "imageSrc": "projects/project.png",
+    "description": ".",
+    "skills": ["Python", "TensorFlow", "OpenCV", "MediaPipe"],
+    "demo": "https://stellar-entremet-cd38f4.netlify.app",
+    "source": "https://www.github.com"
+  },
+
+  {
     "title": "Quiz Page",
     "imageSrc": "projects/project.png",
     "description": ".",

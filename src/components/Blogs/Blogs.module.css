@@ -1,22 +1,26 @@
 /* src/components/Blogs/Blogs.module.css */
-.blogContainer {
-    padding: 20px;
-  }
-  
-  .featuredPost {
-    background: #f8f8f8;
-    padding: 20px;
-    margin-bottom: 20px;
-  }
-  
-  .readLink {
-    display: inline-block;
-    margin-top: 10px;
-    color: blue;
-    text-decoration: underline;
-  }
-  
-  .blogPostContainer {
-    padding: 20px;
-  }
-  
+
+.blogsContainer {
+  padding: 20px;
+}
+
+.recentBlogs, .allBlogs {
+  margin-bottom: 20px;
+}
+
+.blogCardLink {
+  text-decoration: none;
+  color: inherit;
+}
+
+.blogCard {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 10px;
+  transition: box-shadow 0.3s;
+}
+
+.blogCard:hover {
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
